@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Praktikum3</string>
+    <string name="move_activity">pindah_activity</string>
+    <string name="move_with_data">pindah dengan data</string>
+    <string name="dial_number">dial_number</string>
+    <string name="choose_number">choose_number</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+    <string name="choose">choose</string>
+    <string name="move_with_result">move_with_result</string>
+    <string name="result_from_activity">result_from_activity</string>
+</resources>
